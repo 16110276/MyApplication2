@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "669785945283",
+    "firebase_url": "https://myapplication2-c6c41.firebaseio.com",
+    "project_id": "myapplication2-c6c41",
+    "storage_bucket": "myapplication2-c6c41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669785945283:android:b0ce51d35030cfc0",
+        "android_client_info": {
+          "package_name": "id.ac.amikom.myfcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669785945283-98qiak3o4lmelodm75nn0fpg6to7rnbu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.ac.amikom.myfcm",
+            "certificate_hash": "7d333f65a71c1e882a5cc49551d68769bc8eb72b"
+          }
+        },
+        {
+          "client_id": "669785945283-p8sdpchnjbp2g44ok6td26kebjiuf2pj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzrf87lA0HTM_CrQ1BJc1BfD-EDbJjBS8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669785945283-p8sdpchnjbp2g44ok6td26kebjiuf2pj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
